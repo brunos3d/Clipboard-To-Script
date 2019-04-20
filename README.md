@@ -15,4 +15,4 @@
 
 *Your script was created!*
 
-[AssetStore link](https://assetstore.unity.com/packages/tools/utilities/clipboard-to-script-143021)
+[AssetStore link](https://assetstore.unity.com/packages/tools/utilities/clipboard-to-script-143021?aid=1011l4JRk)
